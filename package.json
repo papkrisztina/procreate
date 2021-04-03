@@ -1,0 +1,17 @@
+{
+  "name": "jatektenger",
+  "version": "1.0.0",
+  "description": "jatektenger",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-less": "^4.0.1",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "watch-css": "gulp style"
+  }
+}

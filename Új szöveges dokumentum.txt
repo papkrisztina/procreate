@@ -1,0 +1,12 @@
+                            <div class="home-cta bg-d">
+                                <a href="#" class="pro-link pro-btn">
+                                    <span>Procreate Pocket</span>
+                                    <div class="pro-icon"></div>
+                                </a>
+                                <div class="text text-panel">
+                                    <h2>Think bigger.</h2>
+                                </div>
+                                <div class="image image-panel">
+                                    <img src="../procreate/images/home-pocket_en.f280b6e.jpg" alt="image">
+                                </div>
+                            </div>
